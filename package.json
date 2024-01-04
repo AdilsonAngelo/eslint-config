@@ -11,7 +11,7 @@
         "url": "git+https://github.com/adilsonangelo/eslint-config.git"
     },
     "author": "Adilson Angelo",
-    "license": "MIT",
+    "license": "ISC",
     "bugs": {
         "url": "https://github.com/adilsonangelo/eslint-config/issues"
     },
